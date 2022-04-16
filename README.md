@@ -2,4 +2,4 @@
 
 ## TODO
 
-add editing ability
+add editing feature
